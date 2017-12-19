@@ -56,4 +56,4 @@
         android:id="@+id/fullWebView"
         android:background="#000000" />
 
-</cn.jpush.android.ui.FullScreenView><!-- From: file:/Users/caoguodong/Desktop/Both/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/layout/jpush_webview_layout.xml -->
+</cn.jpush.android.ui.FullScreenView><!-- From: file:/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/layout/jpush_webview_layout.xml -->

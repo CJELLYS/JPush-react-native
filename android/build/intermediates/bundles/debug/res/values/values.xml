@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/caoguodong/Desktop/Both/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="white">#ffffff</color>
-    <!-- From: file:/Users/caoguodong/Desktop/Both/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="alias_hint">Alias为大小写字母，数字，下划线</string>
     <string name="app_name">android</string>
@@ -16,12 +16,12 @@
     <string name="setting_su">设置成功</string>
     <string name="style_hint">style为数字</string>
     <string name="tag_hint">Tag为大小写字母，数字，下划线,中文， 多个用以逗号分隔</string>
-    <!-- From: file:/Users/caoguodong/Desktop/Both/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
     </style>
-    <!-- From: file:/Users/caoguodong/Desktop/Both/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/values/jpush_style.xml -->
+    <!-- From: file:/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/values/jpush_style.xml -->
     <eat-comment/>
     <style name="MyDialogStyle">
         <item name="android:windowBackground">@android:color/transparent</item>
@@ -33,7 +33,7 @@
         <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
         <item name="android:backgroundDimEnabled">true</item>
     </style>
-    <!-- From: file:/Users/caoguodong/Desktop/Both/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="push_alias">
         <item name="android:hint">@string/alias_hint</item>

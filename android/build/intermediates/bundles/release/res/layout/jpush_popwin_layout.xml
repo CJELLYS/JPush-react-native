@@ -12,4 +12,4 @@
             android:layout_height="match_parent"
             android:id="@+id/wvPopwin"/>
 
-</LinearLayout><!-- From: file:/Users/caoguodong/Desktop/Both/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/layout/jpush_popwin_layout.xml -->
+</LinearLayout><!-- From: file:/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/layout/jpush_popwin_layout.xml -->

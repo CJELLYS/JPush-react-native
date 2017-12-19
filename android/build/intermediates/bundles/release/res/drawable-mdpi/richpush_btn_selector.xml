@@ -18,4 +18,4 @@
         android:drawable="@android:color/darker_gray" /> 
     <!-- 默认时的背景图片 --> 
     <item android:drawable="@drawable/ic_richpush_actionbar_back" /> 
-</selector> <!-- From: file:/Users/caoguodong/Desktop/Both/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/drawable-mdpi/richpush_btn_selector.xml -->
+</selector> <!-- From: file:/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact/node_modules/jpush-react-native/android/src/main/res/drawable-mdpi/richpush_btn_selector.xml -->

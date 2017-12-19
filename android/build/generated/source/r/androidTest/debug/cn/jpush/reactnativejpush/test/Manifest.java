@@ -11,6 +11,6 @@ public final class Manifest {
     public static final class permission {
         /**  Required 自定义用来收发消息的相关权限 
          */
-        public static final String JPUSH_MESSAGE="cn.jpush.reactnativejpush.permission.JPUSH_MESSAGE";
+        public static final String JPUSH_MESSAGE="cn.jpush.reactnativejpush.test.permission.JPUSH_MESSAGE";
     }
 }

@@ -1,69 +1,40 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "jpush-react-native@1.3.6",
-        "scope": null,
-        "escapedName": "jpush-react-native",
-        "name": "jpush-react-native",
-        "rawSpec": "1.3.6",
-        "spec": "1.3.6",
-        "type": "version"
-      },
-      "/Users/caoguodong/Desktop/Both/rcshop-onreact"
-    ]
-  ],
-  "_cnpm_publish_time": 1484803683074,
-  "_from": "jpush-react-native@1.3.6",
-  "_id": "jpush-react-native@1.3.6",
-  "_inCache": true,
+  "_from": "jpush-react-native@2.1.3",
+  "_id": "jpush-react-native@2.1.3",
+  "_inBundle": false,
+  "_integrity": "sha1-FyOx3GG7K1BphENiKLvxekQbAf4=",
   "_location": "/jpush-react-native",
-  "_nodeVersion": "7.4.0",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/jpush-react-native-1.3.6.tgz_1484803682788_0.7769276704639196"
-  },
-  "_npmUser": {
-    "name": "kenchoi",
-    "email": "caiyg@jpush.cn"
-  },
-  "_npmVersion": "4.0.5",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "jpush-react-native@1.3.6",
-    "scope": null,
-    "escapedName": "jpush-react-native",
+    "type": "version",
+    "registry": true,
+    "raw": "jpush-react-native@2.1.3",
     "name": "jpush-react-native",
-    "rawSpec": "1.3.6",
-    "spec": "1.3.6",
-    "type": "version"
+    "escapedName": "jpush-react-native",
+    "rawSpec": "2.1.3",
+    "saveSpec": null,
+    "fetchSpec": "2.1.3"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npm.taobao.org/jpush-react-native/download/jpush-react-native-1.3.6.tgz",
-  "_shasum": "94976058034b75010127f40d8128bba6dec54dd6",
-  "_shrinkwrap": null,
-  "_spec": "jpush-react-native@1.3.6",
-  "_where": "/Users/caoguodong/Desktop/Both/rcshop-onreact",
+  "_resolved": "https://registry.npmjs.org/jpush-react-native/-/jpush-react-native-2.1.3.tgz",
+  "_shasum": "1723b1dc61bb2b506984436228bbf17a441b01fe",
+  "_spec": "jpush-react-native@2.1.3",
+  "_where": "/Users/caoguodong/Desktop/Both/商城app/rcshop-onreact",
   "author": {
     "name": "KenChoi, huminiOS"
   },
   "bugs": {
     "url": "https://github.com/jpush/jpush-react-native/issues"
   },
-  "dependencies": {},
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "a jpush plugin for react native application",
-  "devDependencies": {},
-  "directories": {},
-  "dist": {
-    "shasum": "94976058034b75010127f40d8128bba6dec54dd6",
-    "size": 7920333,
-    "noattachment": false,
-    "tarball": "http://registry.npm.taobao.org/jpush-react-native/download/jpush-react-native-1.3.6.tgz"
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0"
   },
-  "gitHead": "45935c454f9057bd0ac36352820d2d24ead2541b",
   "homepage": "https://github.com/jpush/jpush-react-native#readme",
   "keywords": [
     "react",
@@ -72,26 +43,34 @@
   ],
   "license": "ISC",
   "main": "index.js",
-  "maintainers": [
-    {
-      "name": "jpush",
-      "email": "support@jpush.cn"
-    },
-    {
-      "name": "kenchoi",
-      "email": "caiyg@jpush.cn"
-    }
-  ],
   "name": "jpush-react-native",
-  "optionalDependencies": {},
-  "publish_time": 1484803683074,
-  "readme": "ERROR: No README data found!",
+  "peerDependencies": {
+    "jcore-react-native": ">= 1.2.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/jpush/jpush-react-native.git"
   },
+  "rnpm": {
+    "ios": {
+      "sharedLibraries": [
+        "libz",
+        "UserNotifications",
+        "CoreTelephony",
+        "Security",
+        "CFNetwork",
+        "CoreFoundation",
+        "SystemConfiguration",
+        "Foundation",
+        "UIKit",
+        "libresolv",
+        "CoreGraphics"
+      ]
+    }
+  },
   "scripts": {
     "postinstall": "node postInstall.js"
   },
-  "version": "1.3.6"
+  "types": "index.d.ts",
+  "version": "2.1.3"
 }
